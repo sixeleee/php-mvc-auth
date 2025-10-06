@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services>
+    <info>
+        <title>Handcrafted Products &amp; Services</title>
+        <author>Lee Alexis D. Meru</author>
+        <lastUpdated>2025-01-15</lastUpdated>
+    </info>
+
+    <categories>
+        <category id="crochet" name="Handmade Crochet Items">
+            <product>
+                <id>CRCH001</id>
+                <name>Amigurumi Teddy Bear</name>
+                <description>Soft, handcrafted baby bear made with premium cotton yarn in gentle pastel colors. Perfect for newborns and toddlers, measuring 30x40 inches.</description>
+                <image>gizmo.jpg</image>
+                <tagPrice>₱850.00</tagPrice>
+            </product>
+            
+            <product>
+                <id>CRCH002</id>
+                <name>Red Tulips in a Pot</name>
+                <description>Warm and stylish crochet display. Made with soft acrylic yarn in emerald green to match any winter outfit.</description>
+                <image>redtulips.jpg</image>
+                <tagPrice>₱200.00</tagPrice>
+            </product>
+            
+            <product>
+                <id>CRCH003</id>
+                <name>Amigurumi Blueberry Turtle</name>
+                <description>Adorable handcrafted teddy bear perfect for children or as a decorative piece. Made with hypoallergenic yarn and safety eyes, approximately 8 inches tall.</description>
+                <image>turtle.jpg</image>
+                <tagPrice>₱680.00</tagPrice>
+            </product>
+        </category>
+
+        <category id="pastries" name="Fresh Homemade Pastries">
+            <product>
+                <id>PAST001</id>
+                <name>Classic Chocolate Chip Cookies</name>
+                <description>Freshly baked chocolate chip cookies made with real butter and premium chocolate chips. Perfectly crispy outside, chewy inside. Pack of 12 pieces.</description>
+                <image>https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400&amp;h=300&amp;fit=crop</image>
+                <tagPrice>₱280.00</tagPrice>
+            </product>
+            
+            <product>
+                <id>PAST002</id>
+                <name>Banana Bread Loaf</name>
+                <description>Moist and flavorful banana bread made with ripe bananas and a hint of cinnamon. Perfect for breakfast or afternoon snack. Full loaf serves 8-10 slices.</description>
+                <image>https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=400&amp;h=300&amp;fit=crop</image>
+                <tagPrice>₱380.00</tagPrice>
+            </product>
+            
+            <product>
+                <id>PAST003</id>
+                <name>Mini Cupcake Assortment</name>
+                <description>Delightful assortment of mini cupcakes in vanilla, chocolate, and strawberry flavors. Perfect for parties or special occasions. Box of 18 mini cupcakes.</description>
+                <image>https://images.unsplash.com/photo-1519869325930-281384150729?w=400&amp;h=300&amp;fit=crop</image>
+                <tagPrice>₱520.00</tagPrice>
+            </product>
+        </category>
+
+        <category id="cosmetics" name="Natural Beauty Products">
+            <product>
+                <id>COSM001</id>
+                <name>Organic Lip Balm Set</name>
+                <description>Set of 3 organic lip balms in natural flavors: vanilla, mint, and berry. Made with beeswax, coconut oil, and natural ingredients for smooth, moisturized lips.</description>
+                <image>lipbalm.jpg</image>
+                <tagPrice>₱320.00</tagPrice>
+            </product>
+            
+            <product>
+                <id>COSM002</id>
+                <name>Handmade Sugar Scrub</name>
+                <description>Exfoliating sugar scrub with natural oils and essential lavender fragrance. Leaves skin soft and smooth. Perfect for weekly skincare routine. 200ml jar.</description>
+                <image>scrub.jpg</image>
+                <tagPrice>₱450.00</tagPrice>
+            </product>
+            
+            <product>
+                <id>COSM003</id>
+                <name>Natural Face Mask Kit</name>
+                <description>DIY face mask kit with clay powder, oatmeal, and dried herbs. Comes with mixing bowl and instructions for 6 different mask recipes. All natural ingredients.</description>
+                <image>clay.jpg</image>
+                <tagPrice>₱620.00</tagPrice>
+            </product>
+        </category>
+    </categories>
+</services>

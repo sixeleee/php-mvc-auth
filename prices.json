@@ -1,0 +1,79 @@
+{
+    "lastUpdated": "2025-01-15T10:30:00Z",
+    "currency": "PHP",
+    "disclaimer": "Prices are subject to change based on material costs and availability",
+    "prices": [
+        {
+            "productId": "CRCH001",
+            "price": "₱820.00",
+            "originalPrice": "₱850.00",
+            "discount": 3.5,
+            "inStock": true,
+            "lastChanged": "2025-01-15T08:00:00Z"
+        },
+        {
+            "productId": "CRCH002", 
+            "price": "₱420.00",
+            "originalPrice": "₱420.00",
+            "discount": 0,
+            "inStock": true,
+            "lastChanged": "2025-01-10T14:30:00Z"
+        },
+        {
+            "productId": "CRCH003",
+            "price": "₱650.00",
+            "originalPrice": "₱680.00",
+            "discount": 4.4,
+            "inStock": true,
+            "lastChanged": "2025-01-14T16:45:00Z"
+        },
+        {
+            "productId": "PAST001",
+            "price": "₱260.00",
+            "originalPrice": "₱280.00",
+            "discount": 7.1,
+            "inStock": true,
+            "lastChanged": "2025-01-15T07:15:00Z"
+        },
+        {
+            "productId": "PAST002",
+            "price": "₱380.00",
+            "originalPrice": "₱380.00",
+            "discount": 0,
+            "inStock": false,
+            "lastChanged": "2025-01-12T09:20:00Z"
+        },
+        {
+            "productId": "PAST003",
+            "price": "₱490.00",
+            "originalPrice": "₱520.00",
+            "discount": 5.8,
+            "inStock": true,
+            "lastChanged": "2025-01-15T09:45:00Z"
+        },
+        {
+            "productId": "COSM001",
+            "price": "₱320.00",
+            "originalPrice": "₱320.00",
+            "discount": 0,
+            "inStock": true,
+            "lastChanged": "2025-01-13T11:30:00Z"
+        },
+        {
+            "productId": "COSM002",
+            "price": "₱425.00",
+            "originalPrice": "₱450.00",
+            "discount": 5.6,
+            "inStock": true,
+            "lastChanged": "2025-01-14T13:20:00Z"
+        },
+        {
+            "productId": "COSM003",
+            "price": "₱590.00",
+            "originalPrice": "₱620.00",
+            "discount": 4.8,
+            "inStock": true,
+            "lastChanged": "2025-01-15T10:00:00Z"
+        }
+    ]
+}
